@@ -1,0 +1,6 @@
+﻿pandas
+requests
+pyspark
+fastapi
+uvicorn
+sqlite-utils
